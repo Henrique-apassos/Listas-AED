@@ -1,4 +1,5 @@
-# Chaves
+# Lista 0
+## Chaves
 Malu precisa da sua ajuda para criar um programa que verifica se uma expressão está bem formada por chaves. A definição de expressão bem formada é a seguinte:
 
 - Uma expressão vazia é sempre bem formada (i.e. uma string vazia)
